@@ -3,10 +3,10 @@ id: TH-2026-11-13-03
 topic: data-centre-approved-vs-built
 language: EN
 format: single
-status: AWAITING OWNER APPROVAL
+status: APPROVED
 based_on: research/economy/2026-11-13-data-centre-boom.md
 fact_check: fact-checks/FC-2026-11-13-03-data-centre-boom.md
-owner_approval: NOT GIVEN
+owner_approval: "Approved by owner on 2026-11-13 (\"i approve all\" — covering TH-2026-11-13-02, -03, -04, -05)"
 published_url:
 ---
 

@@ -3,10 +3,10 @@ id: TH-2026-11-13-02
 topic: kurang-tahu-terlebih-yakin
 language: BM
 format: single
-status: AWAITING OWNER APPROVAL
+status: APPROVED
 based_on: Kruger & Dunning (1999), primary source; critiques listed below
 fact_check: fact-checks/FC-2026-11-13-02-kurang-tahu-terlebih-yakin.md
-owner_approval: NOT GIVEN
+owner_approval: "Approved by owner on 2026-11-13 (\"i approve all\" — covering TH-2026-11-13-02, -03, -04, -05)"
 published_url:
 ---
 
