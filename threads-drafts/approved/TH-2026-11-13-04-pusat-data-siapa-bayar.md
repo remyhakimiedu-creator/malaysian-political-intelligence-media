@@ -3,10 +3,10 @@ id: TH-2026-11-13-04
 topic: pusat-data-siapa-bayar
 language: BM
 format: single
-status: AWAITING OWNER APPROVAL
+status: APPROVED
 based_on: analysis/public-finance/2026-11-13-data-centre-electricity-water-impact.md
 fact_check: fact-checks/FC-2026-11-13-03-data-centre-boom.md
-owner_approval: NOT GIVEN
+owner_approval: "Approved by owner on 2026-11-13 (\"i approve all\" — covering TH-2026-11-13-02, -03, -04, -05)"
 published_url:
 ---
 

@@ -3,10 +3,10 @@ id: TH-2026-11-13-01
 topic: najib-house-arrest-fact
 language: EN
 format: single
-status: AWAITING OWNER APPROVAL
+status: APPROVED
 based_on: research/malaysia-politics/2026-11-13-najib-house-arrest.md
 fact_check: fact-checks/FC-2026-11-13-01-najib-house-arrest-fact.md
-owner_approval: NOT GIVEN
+owner_approval: "Approved by owner on 2026-11-13 (\"I approve TH-2026-11-13-01\")"
 published_url:
 ---
 
