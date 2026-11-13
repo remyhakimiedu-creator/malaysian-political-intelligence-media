@@ -1,0 +1,14 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+# Python
+__pycache__/
+*.pyc
+# Secrets — this project needs none; never commit any
+.env
+.env.*
+*.key
+# Local-only Claude settings
+.claude/settings.local.json
