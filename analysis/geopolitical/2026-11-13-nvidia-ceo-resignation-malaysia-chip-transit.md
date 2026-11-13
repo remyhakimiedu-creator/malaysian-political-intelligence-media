@@ -75,3 +75,6 @@
 | G-08 | TNGlobal (citing NST) | Singapore/Malaysia | 2026-11-12 | https://technode.global/2026/11/12/malaysia-reviewing-existing-laws-to-prevent-country-from-being-gpu-re-export-hub-report/ | Yes |
 | G-09 | Lowyat.NET (citing The Edge) | Malaysia | 2026-11-12 | https://www.lowyat.net/2026/409691/malaysia-nvidia-chip-re-exports/ | Yes |
 | G-10 | The Star, "Miti imposes permit requirement on US-origin AI chip exports" | Malaysia | 2025-07-14 | https://www.thestar.com.my/business/business-news/2025/07/14/miti-imposes-permit-requirement-on-us-origin-ai-chip-exports-to-close-regulatory-gaps | Search result |
+
+## Update — 2026-11-13 (later the same day)
+- [FACT] MITI said it "never cleared" Megaspeed or Speedmatrix, and that it is working with the Royal Malaysian Customs Department to determine whether chips imported by them were re-exported and whether Malaysian law was complied with. It is also working with Singapore and US authorities. This supersedes the 10 Nov position that no investigation had begun. (Malay Mail, 13 Nov 2026 — S-0051)
